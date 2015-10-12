@@ -1,0 +1,1054 @@
+.version.sports_bras /* version checker */
+{
+	color: #00000E;
+	background-color: #73E732;
+}
+
+.html
+{
+	background-color: #000000;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 6639px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 1001px;
+	width: 0.01px;
+}
+
+#u3305
+{
+	z-index: 3;
+	width: 225px;
+	height: 1600px;
+	top: 0px;
+	left: 0px;
+}
+
+#u2312
+{
+	z-index: 62;
+	width: 860px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 40px;
+	left: 350px;
+}
+
+#u2312_position_content
+{
+	margin-top: -1px;
+	padding-bottom: 556px;
+}
+
+#u2252-4
+{
+	z-index: 74;
+	width: 800px;
+	min-height: 40px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 30px;
+	text-transform: uppercase;
+	line-height: 45px;
+	font-family: amatic-sc, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 40px;
+	left: 350px;
+}
+
+#u2253
+{
+	z-index: 78;
+	width: 255px;
+	height: 4px;
+	border-style: solid;
+	border-color: #E9A58E;
+	background-color: transparent;
+	position: fixed;
+	top: 80px;
+	left: 350px;
+	border-width: 1px 0px 0px;
+}
+
+#u2250-4
+{
+	z-index: 63;
+	width: 860px;
+	min-height: 45px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 48px;
+	letter-spacing: 4px;
+	line-height: 72px;
+	font-family: amatic-sc, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 126px;
+	left: 350px;
+}
+
+#u2251-7
+{
+	z-index: 67;
+	width: 710px;
+	min-height: 59px;
+	background-color: transparent;
+	opacity: 0.65;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
+	filter: alpha(opacity=65);
+	position: fixed;
+	top: 198px;
+	left: 350px;
+}
+
+#u2251-2,#u2251-3
+{
+	font-size: 14px;
+	line-height: 21px;
+	color: #FFFFFF;
+}
+
+#u2251-5
+{
+	font-size: 14px;
+	line-height: 28px;
+	color: #FFFFFF;
+}
+
+#tab-panelu2254
+{
+	z-index: 79;
+	width: 622px;
+	border-style: none;
+	background-color: transparent;
+	position: fixed;
+	top: 308px;
+	left: 409px;
+}
+
+#u2255
+{
+	z-index: 80;
+	width: 622px;
+	border-style: none;
+	background-color: transparent;
+	border-radius: 10px;
+	position: relative;
+}
+
+#u2256
+{
+	z-index: 81;
+	width: 206px;
+	min-height: 18px;
+	border-style: solid;
+	background-color: #998675;
+	border-radius: 10px;
+	padding-bottom: 24px;
+	position: relative;
+	margin-right: -10000px;
+	border-width: 0px 1px 0px 0px;
+}
+
+#u2256:hover
+{
+	background-color: #998675;
+	width: 206px;
+	min-height: 18px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2256:active
+{
+	background-color: #998675;
+	width: 206px;
+	min-height: 18px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2256.TabbedPanelsTabSelected
+{
+	background-color: #C7B299;
+	border-radius: 10px;
+	width: 206px;
+	min-height: 18px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2259-4
+{
+	z-index: 82;
+	width: 206px;
+	min-height: 18px;
+	border-style: none;
+	background-color: transparent;
+	color: #353535;
+	font-size: 13px;
+	line-height: 16px;
+	text-align: center;
+	font-family: open-sans-condensed, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	top: 12px;
+}
+
+#u2256:hover #u2259-4
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 206px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2256:active #u2259-4
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 206px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2256.TabbedPanelsTabSelected #u2259-4
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 206px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2256:hover #u2259-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	padding-top: 0px;
+	letter-spacing: 4px;
+	font-size: 14px;
+	font-family: amatic-sc, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+#u2256:active #u2259-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	padding-top: 0px;
+	letter-spacing: 4px;
+	font-size: 14px;
+	font-family: amatic-sc, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+#u2256.TabbedPanelsTabSelected #u2259-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	letter-spacing: 5px;
+	font-size: 15px;
+	text-align: center;
+	line-height: 1.2;
+	font-family: amatic-sc, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	padding: 0px;
+}
+
+#u2260
+{
+	z-index: 86;
+	width: 205px;
+	min-height: 18px;
+	border-style: solid;
+	background-color: #998675;
+	border-radius: 10px;
+	padding-bottom: 24px;
+	position: relative;
+	margin-right: -10000px;
+	left: 207px;
+	border-width: 0px 1px;
+}
+
+#u2260:hover
+{
+	background-color: #998675;
+	width: 205px;
+	min-height: 18px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2260:active
+{
+	background-color: #998675;
+	width: 205px;
+	min-height: 18px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2260.TabbedPanelsTabSelected
+{
+	background-color: #C7B299;
+	border-radius: 10px;
+	width: 205px;
+	min-height: 18px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2261-4
+{
+	z-index: 87;
+	width: 205px;
+	min-height: 18px;
+	border-style: none;
+	background-color: transparent;
+	color: #353535;
+	font-size: 13px;
+	line-height: 16px;
+	text-align: center;
+	font-family: open-sans-condensed, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	top: 12px;
+}
+
+#u2260:hover #u2261-4
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2260:active #u2261-4
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2260.TabbedPanelsTabSelected #u2261-4
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 205px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2260:hover #u2261-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	letter-spacing: 4px;
+	font-size: 14px;
+	font-family: amatic-sc, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+#u2260:active #u2261-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	letter-spacing: 4px;
+	font-size: 14px;
+	font-family: amatic-sc, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+#u2264
+{
+	z-index: 91;
+	width: 207px;
+	min-height: 18px;
+	border-style: solid;
+	background-color: #998675;
+	border-radius: 10px;
+	padding-bottom: 24px;
+	position: relative;
+	margin-right: -10000px;
+	left: 414px;
+	border-width: 0px 0px 0px 1px;
+}
+
+#u2264:hover
+{
+	background-color: #998675;
+	width: 207px;
+	min-height: 18px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2264.TabbedPanelsTabSelected
+{
+	background-color: #C7B299;
+	border-radius: 10px;
+	width: 207px;
+	min-height: 18px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2266-4
+{
+	z-index: 92;
+	width: 207px;
+	min-height: 18px;
+	border-style: none;
+	background-color: transparent;
+	color: #353535;
+	font-size: 13px;
+	line-height: 16px;
+	text-align: center;
+	font-family: open-sans-condensed, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	top: 12px;
+}
+
+#u2264:hover #u2266-4
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 207px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2264:active #u2266-4
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 207px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2264.TabbedPanelsTabSelected #u2266-4
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 207px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2264:hover #u2266-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	letter-spacing: 4px;
+	font-size: 14px;
+	font-family: amatic-sc, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+#u2264:active #u2266-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	letter-spacing: 4px;
+	font-size: 14px;
+	font-family: amatic-sc, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+#u2260.TabbedPanelsTabSelected #u2261-4 p,#u2264.TabbedPanelsTabSelected #u2266-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	letter-spacing: 4px;
+	font-size: 15px;
+	text-align: center;
+	line-height: 1.2;
+	font-family: amatic-sc, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	padding: 0px;
+}
+
+#u2268
+{
+	z-index: 96;
+	width: 622px;
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2277
+{
+	z-index: 97;
+	width: 622px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #C7B299;
+	padding-bottom: 32px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2280
+{
+	z-index: 103;
+	width: 130px;
+	height: 178px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #353535;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 26px;
+	left: 23px;
+	background: transparent url("../images/sports-encapsulation-240x300.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#pu2278-5
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 24px;
+	margin-left: 179px;
+}
+
+#u2278-5
+{
+	z-index: 98;
+	width: 409px;
+	min-height: 190px;
+	background-color: transparent;
+	text-align: left;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2278-2
+{
+	font-family: fira-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u2279-6
+{
+	z-index: 104;
+	width: 250px;
+	min-height: 60px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #353535;
+	border-radius: 6px;
+	color: #E9A58E;
+	font-size: 18px;
+	letter-spacing: 5px;
+	text-align: center;
+	font-family: amatic-sc, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 115px;
+	left: 79px;
+}
+
+#u2279-6:hover
+{
+	background-color: #C19285;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 60px;
+	width: 250px;
+	margin: 115px -10000px 0px 0px;
+}
+
+#u2269
+{
+	z-index: 110;
+	width: 622px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #C7B299;
+	padding-bottom: 32px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2270
+{
+	z-index: 122;
+	width: 130px;
+	height: 178px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #353535;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 26px;
+	left: 23px;
+	background: transparent url("../images/champion-all-out-support-ii-full-figure-wire-free-sports-bra-ad4f1cfc-1196-4589-8b6f-022045869be4_600.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2271-5
+{
+	z-index: 111;
+	width: 409px;
+	min-height: 190px;
+	background-color: transparent;
+	text-align: left;
+	font-family: fira-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2272-6
+{
+	z-index: 116;
+	width: 250px;
+	min-height: 60px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #353535;
+	border-radius: 6px;
+	color: #E9A58E;
+	font-size: 18px;
+	letter-spacing: 5px;
+	text-align: center;
+	font-family: amatic-sc, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 116px;
+	left: 80px;
+}
+
+#u2273
+{
+	z-index: 123;
+	width: 622px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #C7B299;
+	padding-bottom: 32px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2275
+{
+	z-index: 128;
+	width: 130px;
+	height: 178px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #353535;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 26px;
+	left: 23px;
+	background: transparent url("../images/combinationsportsbra.jpg") repeat center center;
+}
+
+#pu2271-5,#pu2274-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	margin-left: 179px;
+}
+
+#u2274-4
+{
+	z-index: 124;
+	width: 409px;
+	min-height: 190px;
+	background-color: transparent;
+	text-align: left;
+	font-family: fira-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2276-6
+{
+	z-index: 129;
+	width: 250px;
+	min-height: 60px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #353535;
+	border-radius: 6px;
+	color: #E9A58E;
+	font-size: 18px;
+	letter-spacing: 5px;
+	text-align: center;
+	font-family: amatic-sc, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 116px;
+	left: 80px;
+}
+
+#u2272-6:hover,#u2276-6:hover
+{
+	background-color: #C19285;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 60px;
+	width: 250px;
+	margin: 116px -10000px 0px 0px;
+}
+
+#u2279-6:hover p,#u2272-6:hover p,#u2276-6:hover p
+{
+	color: #EAEAEA;
+	visibility: inherit;
+}
+
+#u2279-2,#u2272-2,#u2276-2
+{
+	line-height: 18px;
+	padding-top: 7px;
+}
+
+#u2279-4,#u2272-4,#u2276-4
+{
+	line-height: 22px;
+	padding-top: 7px;
+}
+
+.TabbedPanelsTab /* tabset */
+{
+	cursor: pointer;
+}
+
+#u3284
+{
+	z-index: 4;
+	width: 0px;
+	top: 55px;
+	left: 0px;
+	padding: 26px 125px 142px 100px;
+}
+
+#u3285-3
+{
+	z-index: 13;
+	width: 225px;
+	min-height: 96px;
+	top: 55px;
+	left: 0px;
+}
+
+#u3286-4
+{
+	z-index: 5;
+	width: 224px;
+	min-height: 54px;
+	top: 151px;
+	left: 0px;
+}
+
+#u3287-4
+{
+	z-index: 9;
+	width: 225px;
+	min-height: 18px;
+	top: 205px;
+	left: 0px;
+}
+
+#u3288
+{
+	z-index: 16;
+	width: 130px;
+	top: 280px;
+	left: 46px;
+}
+
+#u3288_position_content
+{
+	margin-top: -135px;
+	padding-bottom: 479px;
+}
+
+#u3293-4
+{
+	z-index: 41;
+	width: 130px;
+	min-height: 45px;
+	top: 280px;
+	left: 46px;
+}
+
+#u3293-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 45px;
+	width: 130px;
+	margin: 0px;
+}
+
+#u3290-4
+{
+	z-index: 21;
+	width: 130px;
+	min-height: 45px;
+	top: 330px;
+	left: 46px;
+}
+
+#u3290-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 45px;
+	width: 130px;
+	margin: 0px;
+}
+
+#u3291-4
+{
+	z-index: 25;
+	width: 130px;
+	min-height: 45px;
+	top: 380px;
+	left: 46px;
+}
+
+#u3289-4
+{
+	z-index: 29;
+	width: 130px;
+	min-height: 45px;
+	top: 430px;
+	left: 46px;
+}
+
+#u3291-4:hover,#u3289-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 45px;
+	width: 130px;
+	margin: 0px;
+}
+
+#u3292-4
+{
+	z-index: 17;
+	width: 130px;
+	min-height: 45px;
+	top: 480px;
+	left: 46px;
+}
+
+#u3294-4
+{
+	z-index: 33;
+	width: 130px;
+	min-height: 45px;
+	top: 530px;
+	left: 46px;
+}
+
+#u3292-4:hover,#u3294-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 45px;
+	width: 130px;
+	margin: 0px;
+}
+
+#u3295-4
+{
+	z-index: 37;
+	width: 130px;
+	min-height: 45px;
+	top: 580px;
+	left: 46px;
+}
+
+#u3295-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 45px;
+	width: 130px;
+	margin: 0px;
+}
+
+#u3293-4.MuseLinkActive,#u3290-4.MuseLinkActive,#u3289-4.MuseLinkActive,#u3294-4.MuseLinkActive,#u3295-4.MuseLinkActive
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 44px;
+	width: 130px;
+	margin: 0px 0px -1px;
+}
+
+#u2249
+{
+	z-index: 60;
+	width: 860px;
+	background-color: #C7B299;
+	padding-bottom: 882px;
+	margin-left: 150px;
+	position: relative;
+}
+
+#u2282
+{
+	z-index: 135;
+	width: 860px;
+	background-color: #C7B299;
+	padding-bottom: 882px;
+	margin-left: 150px;
+	position: relative;
+}
+
+#u2284
+{
+	z-index: 137;
+	width: 860px;
+	background-color: #C7B299;
+	padding-bottom: 882px;
+	margin-left: 150px;
+	position: relative;
+}
+
+#encapsulation_sports_bra,#compression_sports_bra,#combination_sports_bra
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+}
+
+#u3307
+{
+	z-index: 2;
+	min-height: 153px;
+}
+
+#u3307_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	left: -100px;
+}
+
+#u3296
+{
+	z-index: 45;
+	width: 223px;
+	padding-bottom: 58px;
+	margin-bottom: -2px;
+	margin-right: -10000px;
+	left: 1px;
+}
+
+#u3304
+{
+	z-index: 46;
+	width: 223px;
+	height: 154px;
+	bottom: -2px;
+	left: 1px;
+}
+
+#u3297
+{
+	z-index: 47;
+	width: 130px;
+	padding-bottom: 41px;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 22px;
+}
+
+#u3300
+{
+	z-index: 57;
+	height: 41px;
+	width: 40px;
+	bottom: 56px;
+	left: 23px;
+}
+
+#u3298
+{
+	z-index: 53;
+	height: 41px;
+	width: 40px;
+	bottom: 56px;
+	left: 68px;
+}
+
+#u3302
+{
+	z-index: 49;
+	height: 41px;
+	width: 40px;
+	bottom: 56px;
+	left: 113px;
+}
+
+#u3307-bw
+{
+	z-index: 2;
+	min-height: 153px;
+	margin-top: 2785px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
