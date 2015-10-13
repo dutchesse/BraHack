@@ -1,7 +1,7 @@
 .version.fantasy_bras /* version checker */
 {
-	color: #000003;
-	background-color: #7B1C0F;
+	color: #0000F5;
+	background-color: #CA1628;
 }
 
 .html
@@ -103,14 +103,17 @@
 #u2307-4
 {
 	z-index: 78;
-	width: 400px;
+	width: 380px;
 	min-height: 220px;
 	background-color: transparent;
 	opacity: 0.65;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
 	filter: alpha(opacity=65);
 	font-size: 14px;
+	letter-spacing: 1px;
 	line-height: 28px;
+	font-family: museo-sans, sans-serif;
+	font-weight: 100;
 	position: fixed;
 	top: 192px;
 	left: 350px;
@@ -175,15 +178,6 @@
 	left: 46px;
 }
 
-#u3293-4:hover
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 45px;
-	width: 130px;
-	margin: 0px;
-}
-
 #u3290-4
 {
 	z-index: 21;
@@ -193,7 +187,7 @@
 	left: 46px;
 }
 
-#u3290-4:hover
+#u3293-4:hover,#u3290-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -274,7 +268,7 @@
 	margin: 0px;
 }
 
-#u3293-4.MuseLinkActive,#u3290-4.MuseLinkActive,#u3289-4.MuseLinkActive,#u3294-4.MuseLinkActive,#u3295-4.MuseLinkActive
+#u3290-4.MuseLinkActive,#u3289-4.MuseLinkActive,#u3294-4.MuseLinkActive,#u3295-4.MuseLinkActive
 {
 	padding-top: 0px;
 	padding-bottom: 0px;

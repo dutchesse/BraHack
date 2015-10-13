@@ -1,7 +1,7 @@
 .version.submit_a_bra_issue /* version checker */
 {
-	color: #000011;
-	background-color: #C1B341;
+	color: #00000C;
+	background-color: #855F79;
 }
 
 .html
@@ -113,6 +113,8 @@
 	color: #FFFFFF;
 	font-size: 14px;
 	line-height: 21px;
+	font-family: museo-sans, sans-serif;
+	font-weight: 100;
 	position: fixed;
 	top: 158px;
 	left: 350px;
@@ -182,7 +184,8 @@
 	padding: 6px;
 	color: #C4C4C4;
 	line-height: 14px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: museo-sans, sans-serif;
+	font-weight: 100;
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
@@ -306,7 +309,8 @@
 	padding: 6px;
 	color: #C4C4C4;
 	line-height: 14px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: museo-sans, sans-serif;
+	font-weight: 100;
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
@@ -430,7 +434,8 @@
 	padding: 6px;
 	color: #C4C4C4;
 	line-height: 14px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: museo-sans, sans-serif;
+	font-weight: 100;
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
@@ -554,7 +559,8 @@
 	padding: 6px;
 	color: #C4C4C4;
 	line-height: 14px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: museo-sans, sans-serif;
+	font-weight: 100;
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
@@ -678,7 +684,8 @@
 	padding: 6px;
 	color: #C4C4C4;
 	line-height: 14px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: museo-sans, sans-serif;
+	font-weight: 100;
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
@@ -802,7 +809,8 @@
 	padding: 6px;
 	color: #C4C4C4;
 	line-height: 14px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: museo-sans, sans-serif;
+	font-weight: 100;
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
@@ -935,7 +943,8 @@
 	padding: 6px;
 	color: #C4C4C4;
 	line-height: 14px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: museo-sans, sans-serif;
+	font-weight: 100;
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
@@ -1022,8 +1031,9 @@
 	width: 328px;
 	min-height: 14px;
 	color: #C4C4C4;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: museo-sans, sans-serif;
 	font-style: italic;
+	font-weight: 100;
 	padding: 6px;
 }
 
@@ -1227,6 +1237,7 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
+	font-weight: 100;
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
@@ -1293,7 +1304,7 @@
 {
 	line-height: 14px;
 	color: #C4C4C4;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: museo-sans, sans-serif;
 	position: relative;
 }
 
@@ -1303,8 +1314,7 @@
 	line-height: 18px;
 	letter-spacing: 2px;
 	color: #42410B;
-	font-family: fira-sans, sans-serif;
-	font-weight: 300;
+	font-family: museo-sans, sans-serif;
 }
 
 #u1899-4
@@ -1347,7 +1357,7 @@
 #widgetu1896_input,#widgetu1896_prompt
 {
 	color: #C4C4C4;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: museo-sans, sans-serif;
 }
 
 #widgetu1873.non-empty-st #widgetu1873_prompt,#widgetu1888.non-empty-st #widgetu1888_prompt,#widgetu1881.non-empty-st #widgetu1881_prompt,#widgetu1877.non-empty-st #widgetu1877_prompt,#widgetu1900.non-empty-st #widgetu1900_prompt,#widgetu1892.non-empty-st #widgetu1892_prompt,#widgetu1869.non-empty-st #widgetu1869_prompt,#widgetu1896.non-empty-st #widgetu1896_prompt,#widgetu1896.focus-st #widgetu1896_prompt
@@ -1422,15 +1432,6 @@
 	left: 46px;
 }
 
-#u3293-4:hover
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 45px;
-	width: 130px;
-	margin: 0px;
-}
-
 #u3290-4
 {
 	z-index: 21;
@@ -1440,7 +1441,7 @@
 	left: 46px;
 }
 
-#u3290-4:hover
+#u3293-4:hover,#u3290-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -1521,7 +1522,7 @@
 	margin: 0px;
 }
 
-#u3293-4.MuseLinkActive,#u3290-4.MuseLinkActive,#u3289-4.MuseLinkActive,#u3294-4.MuseLinkActive,#u3295-4.MuseLinkActive
+#u3290-4.MuseLinkActive,#u3289-4.MuseLinkActive,#u3294-4.MuseLinkActive,#u3295-4.MuseLinkActive
 {
 	padding-top: 0px;
 	padding-bottom: 0px;

@@ -1,7 +1,7 @@
 .version.fashion_bras /* version checker */
 {
-	color: #0000F9;
-	background-color: #4741D6;
+	color: #0000E6;
+	background-color: #FC3465;
 }
 
 .html
@@ -99,6 +99,8 @@
 	width: 420px;
 	min-height: 272px;
 	background-color: transparent;
+	font-family: museo-sans, sans-serif;
+	font-weight: 100;
 	top: -1px;
 	margin-bottom: -1px;
 	position: relative;
@@ -171,15 +173,6 @@
 	left: 46px;
 }
 
-#u3293-4:hover
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 45px;
-	width: 130px;
-	margin: 0px;
-}
-
 #u3290-4
 {
 	z-index: 21;
@@ -189,7 +182,7 @@
 	left: 46px;
 }
 
-#u3290-4:hover
+#u3293-4:hover,#u3290-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -270,7 +263,7 @@
 	margin: 0px;
 }
 
-#u3293-4.MuseLinkActive,#u3290-4.MuseLinkActive,#u3289-4.MuseLinkActive,#u3294-4.MuseLinkActive,#u3295-4.MuseLinkActive
+#u3290-4.MuseLinkActive,#u3289-4.MuseLinkActive,#u3294-4.MuseLinkActive,#u3295-4.MuseLinkActive
 {
 	padding-top: 0px;
 	padding-bottom: 0px;

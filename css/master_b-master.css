@@ -47,8 +47,8 @@
 	line-height: 13px;
 	letter-spacing: 5px;
 	text-align: center;
-	font-family: open-sans, sans-serif;
-	font-weight: 400;
+	font-family: museo-sans, sans-serif;
+	font-weight: 500;
 	position: fixed;
 }
 
@@ -65,26 +65,8 @@
 	border-color: #F2E6DA;
 	background-color: transparent;
 	line-height: 18px;
-	font-family: open-sans-condensed, sans-serif;
-	font-weight: 300;
+	font-weight: 100;
 	position: fixed;
-}
-
-#u3293-4:hover
-{
-	border-style: none;
-	border-color: #F2E6DA;
-}
-
-#u3293-4:hover p
-{
-	color: #FFFFFF;
-	visibility: inherit;
-	letter-spacing: 3px;
-	font-size: 18px;
-	font-family: amatic-sc, sans-serif;
-	font-weight: 700;
-	font-style: normal;
 }
 
 #u3290-4
@@ -92,8 +74,7 @@
 	border-color: #F2E6DA;
 	background-color: transparent;
 	line-height: 17px;
-	font-family: open-sans-condensed, sans-serif;
-	font-weight: 300;
+	font-weight: 100;
 	position: fixed;
 }
 
@@ -103,7 +84,7 @@
 	border-color: #F2E6DA;
 }
 
-#u3290-4:hover p
+#u3293-4:hover p,#u3290-4:hover p
 {
 	color: #FFFFFF;
 	visibility: inherit;
@@ -119,8 +100,7 @@
 	border-color: #F2E6DA;
 	background-color: transparent;
 	line-height: 17px;
-	font-family: open-sans-condensed, sans-serif;
-	font-weight: 300;
+	font-weight: 100;
 	position: fixed;
 }
 
@@ -129,8 +109,7 @@
 	border-color: #F2E6DA;
 	background-color: transparent;
 	line-height: 17px;
-	font-family: open-sans-condensed, sans-serif;
-	font-weight: 300;
+	font-weight: 100;
 	position: fixed;
 }
 
@@ -156,12 +135,11 @@
 	border-color: #F2E6DA;
 	background-color: transparent;
 	line-height: 17px;
-	font-family: open-sans-condensed, sans-serif;
-	font-weight: 300;
+	font-weight: 100;
 	position: fixed;
 }
 
-#u3291-4:hover,#u3292-4:hover
+#u3293-4:hover,#u3291-4:hover,#u3292-4:hover
 {
 	border-style: none;
 }
@@ -171,8 +149,7 @@
 	border-color: #F2E6DA;
 	background-color: transparent;
 	line-height: 17px;
-	font-family: open-sans-condensed, sans-serif;
-	font-weight: 300;
+	font-weight: 100;
 	position: fixed;
 }
 
@@ -198,8 +175,7 @@
 	border-color: #F2E6DA;
 	background-color: transparent;
 	line-height: 17px;
-	font-family: open-sans-condensed, sans-serif;
-	font-weight: 300;
+	font-weight: 100;
 	position: fixed;
 }
 
@@ -209,7 +185,7 @@
 	border-color: #F2E6DA;
 }
 
-#u3293-4.MuseLinkActive,#u3290-4.MuseLinkActive,#u3289-4.MuseLinkActive,#u3294-4.MuseLinkActive,#u3295-4.MuseLinkActive
+#u3290-4.MuseLinkActive,#u3289-4.MuseLinkActive,#u3294-4.MuseLinkActive,#u3295-4.MuseLinkActive
 {
 	border-style: solid;
 	border-color: #E8A28D;
@@ -227,7 +203,7 @@
 	font-style: normal;
 }
 
-#u3293-4.MuseLinkActive p,#u3290-4.MuseLinkActive p,#u3289-4.MuseLinkActive p,#u3294-4.MuseLinkActive p,#u3295-4.MuseLinkActive p
+#u3290-4.MuseLinkActive p,#u3289-4.MuseLinkActive p,#u3294-4.MuseLinkActive p,#u3295-4.MuseLinkActive p
 {
 	color: #E9A58E;
 	visibility: inherit;
@@ -236,6 +212,12 @@
 	font-family: amatic-sc, sans-serif;
 	font-weight: 700;
 	font-style: normal;
+}
+
+#u3293-2,#u3290-2,#u3291-2,#u3289-2,#u3292-2,#u3294-2,#u3295-2
+{
+	letter-spacing: 0px;
+	font-family: museo-sans, sans-serif;
 }
 
 #u3307

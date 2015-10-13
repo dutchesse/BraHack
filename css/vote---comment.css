@@ -1,7 +1,7 @@
 .version.vote___comment /* version checker */
 {
-	color: #00000B;
-	background-color: #43FC54;
+	color: #0000E9;
+	background-color: #AE6B24;
 }
 
 .html
@@ -153,8 +153,8 @@
 	line-height: 21px;
 	letter-spacing: 1px;
 	text-align: center;
-	font-family: fira-sans, sans-serif;
-	font-weight: 300;
+	font-family: museo-sans, sans-serif;
+	font-weight: 100;
 	position: relative;
 }
 
@@ -181,15 +181,6 @@
 	left: 46px;
 }
 
-#u3293-4:hover
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 45px;
-	width: 130px;
-	margin: 0px;
-}
-
 #u3290-4
 {
 	z-index: 21;
@@ -199,7 +190,7 @@
 	left: 46px;
 }
 
-#u3290-4:hover
+#u3293-4:hover,#u3290-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -280,7 +271,7 @@
 	margin: 0px;
 }
 
-#u3293-4.MuseLinkActive,#u3290-4.MuseLinkActive,#u3289-4.MuseLinkActive,#u3294-4.MuseLinkActive,#u3295-4.MuseLinkActive
+#u3290-4.MuseLinkActive,#u3289-4.MuseLinkActive,#u3294-4.MuseLinkActive,#u3295-4.MuseLinkActive
 {
 	padding-top: 0px;
 	padding-bottom: 0px;

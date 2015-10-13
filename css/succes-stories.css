@@ -1,7 +1,7 @@
 .version.succes_stories /* version checker */
 {
-	color: #0000E1;
-	background-color: #5B5162;
+	color: #0000EB;
+	background-color: #EC7658;
 }
 
 .html
@@ -96,15 +96,6 @@
 	left: 46px;
 }
 
-#u3293-4:hover
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 45px;
-	width: 130px;
-	margin: 0px;
-}
-
 #u3290-4
 {
 	z-index: 21;
@@ -114,7 +105,7 @@
 	left: 46px;
 }
 
-#u3290-4:hover
+#u3293-4:hover,#u3290-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -195,7 +186,7 @@
 	margin: 0px;
 }
 
-#u3293-4.MuseLinkActive,#u3290-4.MuseLinkActive,#u3289-4.MuseLinkActive,#u3294-4.MuseLinkActive,#u3295-4.MuseLinkActive
+#u3290-4.MuseLinkActive,#u3289-4.MuseLinkActive,#u3294-4.MuseLinkActive,#u3295-4.MuseLinkActive
 {
 	padding-top: 0px;
 	padding-bottom: 0px;

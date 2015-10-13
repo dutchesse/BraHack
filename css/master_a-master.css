@@ -6,20 +6,6 @@
 	position: fixed;
 }
 
-#u3553
-{
-	opacity: 0.8;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
-	filter: alpha(opacity=80);
-	background: #000000 url("../images/machinery_vector4.svg") no-repeat center center;
-	background-size: contain;
-}
-
-.nosvg #u3553
-{
-	background-image: url('../images/machinery_vector4_poster_u1202.png');
-}
-
 #u3556-4
 {
 	background-color: transparent;
@@ -87,12 +73,26 @@
 	line-height: 13px;
 	letter-spacing: 5px;
 	text-align: center;
-	font-family: open-sans, sans-serif;
-	font-weight: 400;
+	font-family: museo-sans, sans-serif;
+	font-weight: 500;
 	position: fixed;
 }
 
-#u2056,#u2060
+#u3553
+{
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	background: #000000 url("../images/machinery_vector4.svg") no-repeat center center;
+	background-size: contain;
+}
+
+.nosvg #u3553
+{
+	background-image: url('../images/machinery_vector4_poster_u1202.png');
+}
+
+#u3554,#u2056,#u2060
 {
 	border-style: none;
 	border-color: transparent;
@@ -105,8 +105,7 @@
 	border-color: #F2E6DA;
 	background-color: transparent;
 	line-height: 18px;
-	font-family: open-sans-condensed, sans-serif;
-	font-weight: 300;
+	font-weight: 100;
 	position: fixed;
 }
 
@@ -120,7 +119,20 @@
 {
 	color: #FFFFFF;
 	visibility: inherit;
-	letter-spacing: 3px;
+	padding-top: 11px;
+	letter-spacing: 4px;
+	font-size: 18px;
+	font-family: amatic-sc, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+#u2064-4.MuseLinkActive p
+{
+	color: #E9A58E;
+	visibility: inherit;
+	padding-top: 11px;
+	letter-spacing: 4px;
 	font-size: 18px;
 	font-family: amatic-sc, sans-serif;
 	font-weight: 700;
@@ -132,8 +144,7 @@
 	border-color: #F2E6DA;
 	background-color: transparent;
 	line-height: 17px;
-	font-family: open-sans-condensed, sans-serif;
-	font-weight: 300;
+	font-weight: 100;
 	position: fixed;
 }
 
@@ -147,7 +158,20 @@
 {
 	color: #FFFFFF;
 	visibility: inherit;
-	letter-spacing: 3px;
+	padding-top: 11px;
+	letter-spacing: 4px;
+	font-size: 18px;
+	font-family: amatic-sc, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+#u2065-4.MuseLinkActive p
+{
+	color: #E9A58E;
+	visibility: inherit;
+	padding-top: 11px;
+	letter-spacing: 4px;
 	font-size: 18px;
 	font-family: amatic-sc, sans-serif;
 	font-weight: 700;
@@ -159,8 +183,7 @@
 	border-color: #F2E6DA;
 	background-color: transparent;
 	line-height: 17px;
-	font-family: open-sans-condensed, sans-serif;
-	font-weight: 300;
+	font-weight: 100;
 	position: fixed;
 }
 
@@ -174,7 +197,20 @@
 {
 	color: #FFFFFF;
 	visibility: inherit;
-	letter-spacing: 3px;
+	padding-top: 11px;
+	letter-spacing: 4px;
+	font-size: 18px;
+	font-family: amatic-sc, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+#u2061-4.MuseLinkActive p
+{
+	color: #E9A58E;
+	visibility: inherit;
+	padding-top: 11px;
+	letter-spacing: 4px;
 	font-size: 18px;
 	font-family: amatic-sc, sans-serif;
 	font-weight: 700;
@@ -186,8 +222,7 @@
 	border-color: #F2E6DA;
 	background-color: transparent;
 	line-height: 17px;
-	font-family: open-sans-condensed, sans-serif;
-	font-weight: 300;
+	font-weight: 100;
 	position: fixed;
 }
 
@@ -201,7 +236,20 @@
 {
 	color: #FFFFFF;
 	visibility: inherit;
-	letter-spacing: 3px;
+	padding-top: 11px;
+	letter-spacing: 4px;
+	font-size: 18px;
+	font-family: amatic-sc, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+#u2067-4.MuseLinkActive p
+{
+	color: #E9A58E;
+	visibility: inherit;
+	padding-top: 11px;
+	letter-spacing: 4px;
 	font-size: 18px;
 	font-family: amatic-sc, sans-serif;
 	font-weight: 700;
@@ -213,8 +261,7 @@
 	border-color: #F2E6DA;
 	background-color: transparent;
 	line-height: 17px;
-	font-family: open-sans-condensed, sans-serif;
-	font-weight: 300;
+	font-weight: 100;
 	position: fixed;
 }
 
@@ -235,22 +282,30 @@
 {
 	color: #FFFFFF;
 	visibility: inherit;
-	letter-spacing: 3px;
+	padding-top: 11px;
+	letter-spacing: 4px;
 	font-size: 18px;
 	font-family: amatic-sc, sans-serif;
 	font-weight: 700;
 	font-style: normal;
 }
 
-#u2064-4.MuseLinkActive p,#u2065-4.MuseLinkActive p,#u2061-4.MuseLinkActive p,#u2067-4.MuseLinkActive p,#u2066-4.MuseLinkActive p
+#u2066-4.MuseLinkActive p
 {
 	color: #E9A58E;
 	visibility: inherit;
-	letter-spacing: 3px;
+	padding-top: 11px;
+	letter-spacing: 4px;
 	font-size: 18px;
 	font-family: amatic-sc, sans-serif;
 	font-weight: 700;
 	font-style: normal;
+}
+
+#u2064-2,#u2065-2,#u2061-2,#u2067-2,#u2066-2
+{
+	letter-spacing: 0px;
+	font-family: museo-sans, sans-serif;
 }
 
 #u2085
@@ -272,7 +327,7 @@
 	border-width: 0px 0px 1px;
 }
 
-#u3554,#u2086,#u2088
+#u2086,#u2088
 {
 	border-style: none;
 	border-color: transparent;
