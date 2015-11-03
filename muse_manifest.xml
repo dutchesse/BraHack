@@ -1,93 +1,113 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="alchemyofshape.com" resolutions="1x" timestamp="1444697384672">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="alchemyofshape.com" resolutions="1x" timestamp="1446581401343">
   <folder name="css">
     <file name="site_global.css" crc="18990439"/>
-    <file name="master_b-master.css" crc="529533108" ref="fantasy-bras:succes-stories:fashion-bras:vote---comment:sports-bras:submit-a-bra-issue"/>
-    <file name="master_a-master.css" crc="457080761" ref="index:how-it-works:work-shop:work-shop-1"/>
-    <file name="index.css" crc="97779467" ref="index"/>
-    <file name="fantasy-bras.css" crc="4123661864" ref="fantasy-bras"/>
-    <file name="succes-stories.css" crc="3958142552" ref="succes-stories"/>
-    <file name="how-it-works.css" crc="139925752" ref="how-it-works"/>
-    <file name="fashion-bras.css" crc="3875288165" ref="fashion-bras"/>
-    <file name="vote---comment.css" crc="3920522020" ref="vote---comment"/>
-    <file name="sports-bras.css" crc="3909251047" ref="sports-bras"/>
-    <file name="submit-a-bra-issue.css" crc="210067321" ref="submit-a-bra-issue"/>
-    <file name="work-shop.css" crc="240731492" ref="work-shop"/>
-    <file name="work-shop-1.css" crc="18322432" ref="work-shop-1"/>
+    <file name="master_a-master.css" crc="32846519" ref="index:how-it-works:issues:workshop:fantasy-bras:vote:fashion-bras:sports-bras"/>
+    <file name="index.css" crc="4257246385" ref="index"/>
+    <file name="fantasy-bras.css" crc="282499015" ref="fantasy-bras"/>
+    <file name="how-it-works.css" crc="300648252" ref="how-it-works"/>
+    <file name="fashion-bras.css" crc="3801346225" ref="fashion-bras"/>
+    <file name="sports-bras.css" crc="209784285" ref="sports-bras"/>
+    <file name="issues.css" crc="497636918" ref="issues"/>
+    <file name="workshop.css" crc="4045847407" ref="workshop"/>
+    <file name="vote.css" crc="4179980875" ref="vote"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:fashion-bras:sports-bras:fantasy-bras:submit-a-bra-issue:vote---comment:succes-stories:how-it-works:work-shop:work-shop-1"/>
-    <file name="museutils.js" crc="275725342" ref="index:fashion-bras:sports-bras:fantasy-bras:submit-a-bra-issue:vote---comment:succes-stories:how-it-works:work-shop:work-shop-1"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:fashion-bras:sports-bras:vote---comment:how-it-works:work-shop-1"/>
-    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:how-it-works:work-shop:work-shop-1"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:fashion-bras:sports-bras:fantasy-bras:submit-a-bra-issue:vote---comment:succes-stories:how-it-works:work-shop:work-shop-1"/>
-    <file name="pie.js" crc="3827607177" ref="index:sports-bras:vote---comment:how-it-works:work-shop-1"/>
-    <file name="webpro.js" crc="3883484123" ref="index:sports-bras:submit-a-bra-issue:vote---comment:how-it-works:work-shop-1"/>
-    <file name="musewpdisclosure.js" crc="404074387" ref="index:sports-bras:work-shop-1"/>
-    <file name="musewpslideshow.js" crc="360574455" ref="index:vote---comment:how-it-works:work-shop-1"/>
-    <file name="jquery.museoverlay.js" crc="342093292" ref="index:vote---comment:how-it-works:work-shop-1"/>
-    <file name="touchswipe.js" crc="4218319045" ref="index:vote---comment:how-it-works:work-shop-1"/>
-    <file name="form_check.php" crc="3932029206" ref="index:submit-a-bra-issue:work-shop-1"/>
-    <file name="form_throttle.php" crc="314685628" ref="index:submit-a-bra-issue:work-shop-1"/>
-    <file name="form_process.php" crc="401030677" ref="index:submit-a-bra-issue:work-shop-1"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:fashion-bras:sports-bras:fantasy-bras:how-it-works:issues:vote:workshop"/>
+    <file name="museutils.js" crc="275725342" ref="index:fashion-bras:sports-bras:fantasy-bras:how-it-works:issues:vote:workshop"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:how-it-works:vote:issues"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:fashion-bras:sports-bras:fantasy-bras:how-it-works:issues:vote:workshop"/>
+    <file name="pie.js" crc="3827607177" ref="index:sports-bras:how-it-works:vote:issues"/>
+    <file name="webpro.js" crc="3883484123" ref="index:sports-bras:how-it-works:issues:vote:fashion-bras:fantasy-bras:workshop"/>
+    <file name="musewpdisclosure.js" crc="404074387" ref="how-it-works"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index:how-it-works:sports-bras:vote:fashion-bras:fantasy-bras:issues:workshop"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index:how-it-works:sports-bras:vote:fashion-bras:fantasy-bras:issues:workshop"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index:how-it-works:sports-bras:vote:fashion-bras:fantasy-bras:issues:workshop"/>
+    <file name="form_check.php" crc="3932029206" ref="index:issues:fashion-bras:sports-bras:fantasy-bras:vote:how-it-works:workshop"/>
+    <file name="form_throttle.php" crc="314685628" ref="index:issues:fashion-bras:sports-bras:fantasy-bras:vote:how-it-works:workshop"/>
+    <file name="form_process.php" crc="401030677" ref="index:issues:fashion-bras:sports-bras:fantasy-bras:vote:how-it-works:workshop"/>
     <file name="form-u3508.php" crc="3902858932" ref="index"/>
-    <file name="form-u1864.php" crc="9171356" ref="submit-a-bra-issue"/>
-    <file name="form-u3845.php" crc="4168390961" ref="work-shop-1"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="form-u5262.php" crc="4238793028" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="form-u5285.php" crc="4153468938" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
   </folder>
   <folder name="images">
-    <file name="machinery_vector4.svg" crc="247981451" ref="index:work-shop-1"/>
-    <file name="machinery_vector4_poster_u1202.png" crc="167950005" ref="index:work-shop-1"/>
-    <file name="perfect-bra-poster2.jpg" crc="524240012" ref="index:work-shop-1"/>
-    <file name="champion-all-out-support-ii-full-figure-wire-free-sports-bra-ad4f1cfc-1196-4589-8b6f-022045869be4_600.jpg" crc="351194959" ref="index:sports-bras:work-shop-1"/>
-    <file name="reshape159au7spongesuitpagina4.jpg" crc="477600603" ref="index:work-shop-1"/>
-    <file name="beakerladies_v3white.svg" crc="324188169" ref="index:fashion-bras"/>
-    <file name="beakerladies_v3white_poster_u1191.png" crc="4169606584" ref="index:fashion-bras"/>
-    <file name="vote_howitworks.jpg" crc="4072663137" ref="index:work-shop-1"/>
-    <file name="arrows-mn_close.png" crc="236761104" seo="true" ref="index:vote---comment:how-it-works:work-shop-1"/>
-    <file name="u3516-21.png" crc="311828129" ref="index"/>
-    <file name="u3516-21-r.png" crc="3844863548" ref="index"/>
-    <file name="u3516-21-m.png" crc="446077895" ref="index"/>
-    <file name="u3516-21-fs.png" crc="51175883" ref="index"/>
-    <file name="u2091.png" crc="430362394" ref="index:how-it-works:work-shop:work-shop-1"/>
-    <file name="u2091-r.png" crc="4164465821" ref="index:how-it-works:work-shop:work-shop-1"/>
-    <file name="u2091-m.png" crc="4071396380" ref="index:how-it-works:work-shop:work-shop-1"/>
-    <file name="u2093.png" crc="4167164534" ref="index:how-it-works:work-shop:work-shop-1"/>
-    <file name="u2093-r.png" crc="3772690316" ref="index:how-it-works:work-shop:work-shop-1"/>
-    <file name="u2093-m.png" crc="3853614401" ref="index:how-it-works:work-shop:work-shop-1"/>
-    <file name="u2089.png" crc="3922931683" ref="index:how-it-works:work-shop:work-shop-1"/>
-    <file name="u2089-r.png" crc="481608017" ref="index:how-it-works:work-shop:work-shop-1"/>
-    <file name="u2089-m.png" crc="4200193780" ref="index:how-it-works:work-shop:work-shop-1"/>
-    <file name="u3300.png" crc="430362394" ref="fashion-bras:sports-bras:fantasy-bras:submit-a-bra-issue:vote---comment:succes-stories"/>
-    <file name="u3300-r.png" crc="4164465821" ref="fashion-bras:sports-bras:fantasy-bras:submit-a-bra-issue:vote---comment:succes-stories"/>
-    <file name="u3300-m.png" crc="4071396380" ref="fashion-bras:sports-bras:fantasy-bras:submit-a-bra-issue:vote---comment:succes-stories"/>
-    <file name="u3298.png" crc="4167164534" ref="fashion-bras:sports-bras:fantasy-bras:submit-a-bra-issue:vote---comment:succes-stories"/>
-    <file name="u3298-r.png" crc="3772690316" ref="fashion-bras:sports-bras:fantasy-bras:submit-a-bra-issue:vote---comment:succes-stories"/>
-    <file name="u3298-m.png" crc="3853614401" ref="fashion-bras:sports-bras:fantasy-bras:submit-a-bra-issue:vote---comment:succes-stories"/>
-    <file name="u3302.png" crc="3922931683" ref="fashion-bras:sports-bras:fantasy-bras:submit-a-bra-issue:vote---comment:succes-stories"/>
-    <file name="u3302-r.png" crc="481608017" ref="fashion-bras:sports-bras:fantasy-bras:submit-a-bra-issue:vote---comment:succes-stories"/>
-    <file name="u3302-m.png" crc="4200193780" ref="fashion-bras:sports-bras:fantasy-bras:submit-a-bra-issue:vote---comment:succes-stories"/>
-    <file name="sports-encapsulation-240x300.jpg" crc="314065368" ref="sports-bras"/>
+    <file name="perfect-bra-poster2.jpg" crc="524240012" ref="how-it-works"/>
+    <file name="champion-all-out-support-ii-full-figure-wire-free-sports-bra-ad4f1cfc-1196-4589-8b6f-022045869be4_600.jpg" crc="4099991797" ref="sports-bras:how-it-works"/>
+    <file name="reshape159au7spongesuitpagina4.jpg" crc="477600603" ref="how-it-works"/>
+    <file name="vote_howitworks.jpg" crc="4072663137" ref="index"/>
+    <file name="arrows-mn_close.png" crc="236761104" seo="true" ref="index:how-it-works:vote:fashion-bras:sports-bras:fantasy-bras:issues:workshop"/>
+    <file name="sports-encapsulation-240x300.jpg" crc="310857052" ref="sports-bras"/>
     <file name="combinationsportsbra.jpg" crc="3789811554" ref="sports-bras"/>
-    <file name="u1904-17.png" crc="4128096851" ref="submit-a-bra-issue"/>
-    <file name="u1904-17-r.png" crc="4142084940" ref="submit-a-bra-issue"/>
-    <file name="u1904-17-m.png" crc="3794677942" ref="submit-a-bra-issue"/>
-    <file name="u1904-17-fs.png" crc="474726167" ref="submit-a-bra-issue"/>
-    <file name="submitadesign_slider.jpg" crc="3989429159" ref="vote---comment"/>
-    <file name="bramaking-1-of-31.jpg" crc="255255980" ref="vote---comment"/>
-    <file name="how-to-temporary-fix-a-broken-underwire-of-a-bra-3.jpg" crc="3863532254" ref="vote---comment"/>
+    <file name="submitadesign_slider.jpg" crc="3989429159" ref="vote"/>
+    <file name="bramaking-1-of-31.jpg" crc="4189318306" ref="vote"/>
+    <file name="how-to-temporary-fix-a-broken-underwire-of-a-bra-3.jpg" crc="4180331926" ref="vote"/>
     <file name="ideasubmit.jpg" crc="75537658" ref="how-it-works"/>
-    <file name="u3861-17.png" crc="311828129" ref="work-shop-1"/>
-    <file name="u3861-17-r.png" crc="3844863548" ref="work-shop-1"/>
-    <file name="u3861-17-m.png" crc="446077895" ref="work-shop-1"/>
-    <file name="u3861-17-fs.png" crc="51175883" ref="work-shop-1"/>
+    <file name="u4115.png" crc="3966914324" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u4115-r.png" crc="373937320" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u4115-m.png" crc="3983960528" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u4111.png" crc="303938189" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u4111-r.png" crc="4176905950" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u4111-m.png" crc="3904983007" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u4113.png" crc="482138488" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u4113-r.png" crc="141449386" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u4113-m.png" crc="4056943672" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="arrowmenudown-u3938.png" crc="4190742319" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="arrowmenudown-u3938-r.png" crc="4190742319" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="arrowmenudown-u3938-a.png" crc="4190742319" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="machinery_vector5.svg" crc="3996840425" ref="index:how-it-works:workshop"/>
+    <file name="machinery_vector5_poster_.png" crc="3960259535" ref="index"/>
+    <file name="u3516-17.png" crc="311828129" ref="index"/>
+    <file name="u3516-17-r.png" crc="3844863548" ref="index"/>
+    <file name="u3516-17-m.png" crc="446077895" ref="index"/>
+    <file name="u3516-17-fs.png" crc="51175883" ref="index"/>
+    <file name="champion-all-out-support-ii-full-figure-wire-free-sports-bra-ad4f1cfc-1196-4589-8b6f-022045869be4_600-ieu4508-fr.png" crc="277542376" ref="sports-bras"/>
+    <file name="combinationsportsbra-ieu4510-fr.png" crc="4060608066" ref="sports-bras"/>
+    <file name="sportsbras.svg" crc="346879076" ref="sports-bras"/>
+    <file name="sportsbras_poster_.png" crc="173375132" ref="sports-bras"/>
+    <file name="u5203.png" crc="4198364550" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u5203-r.png" crc="484581793" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u5197.png" crc="89908524" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u5197-r.png" crc="198082411" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u5209.png" crc="4091610882" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u5209-r.png" crc="3873156498" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u5221.png" crc="3910249662" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u5221-r.png" crc="4195566528" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u5274-21.png" crc="3874310065" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u5274-21-r.png" crc="159740760" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u5274-21-m.png" crc="159740760" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u5274-21-fs.png" crc="4101826494" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u5301-21.png" crc="3874310065" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u5301-21-r.png" crc="159740760" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u5301-21-m.png" crc="159740760" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="u5301-21-fs.png" crc="4101826494" ref="index:fashion-bras:sports-bras:fantasy-bras:issues:vote:how-it-works:workshop"/>
+    <file name="branatomy_underwire.svg" crc="198239115" ref="issues"/>
+    <file name="branatomy_underwire_poster_u5718.png" crc="332063905" ref="issues"/>
+    <file name="branatomy_cups.svg" crc="404511281" ref="issues"/>
+    <file name="branatomy_cups_poster_u5712.png" crc="3998859167" ref="issues"/>
+    <file name="branatomy_band.svg" crc="149056869" ref="issues"/>
+    <file name="branatomy_band_poster_u5724.png" crc="49911197" ref="issues"/>
+    <file name="branatomy_bridge.svg" crc="403959245" ref="issues"/>
+    <file name="branatomy_bridge_poster_u5730.png" crc="4013248404" ref="issues"/>
+    <file name="branatomy_wings.svg" crc="4041954270" ref="issues"/>
+    <file name="branatomy_wings_poster_u5736.png" crc="3934293151" ref="issues"/>
+    <file name="branatomy_straps.svg" crc="103415154" ref="issues"/>
+    <file name="branatomy_straps_poster_u5748.png" crc="39540634" ref="issues"/>
+    <file name="branatomy_hooks.svg" crc="4132144182" ref="issues"/>
+    <file name="branatomy_hooks_poster_u5742.png" crc="3920154544" ref="issues"/>
+    <file name="branatomy_rings.svg" crc="3842351206" ref="issues"/>
+    <file name="branatomy_rings_poster_u5754.png" crc="4280917403" ref="issues"/>
+    <file name="branatomy_sliders.svg" crc="210119820" ref="issues"/>
+    <file name="branatomy_sliders_poster_u5760.png" crc="4293200456" ref="issues"/>
+    <file name="branatomy_master.svg" crc="264020121" ref="issues"/>
+    <file name="branatomy_master_poster_.png" crc="4173825636" ref="issues"/>
   </folder>
-  <file name="index.html" crc="3959393170" seo="true" mt="1444696760818" redirect="true"/>
-  <file name="fashion-bras.html" crc="368738453" seo="true" mt="1444693990966" redirect="true"/>
-  <file name="sports-bras.html" crc="4110703309" seo="true" mt="1444693990966" redirect="true"/>
-  <file name="fantasy-bras.html" crc="4191334621" seo="true" mt="1444693990966" redirect="true"/>
-  <file name="submit-a-bra-issue.html" crc="23552736" seo="true" mt="1444693990966" redirect="true"/>
-  <file name="vote---comment.html" crc="4100362081" seo="true" mt="1444693990966" redirect="true"/>
-  <file name="succes-stories.html" crc="266600756" seo="true" mt="1444693990966" redirect="true"/>
-  <file name="how-it-works.html" crc="3801319579" seo="true" mt="1444697191360" redirect="true"/>
-  <file name="work-shop.html" crc="245182743" seo="true" mt="1444697296910" redirect="true"/>
-  <file name="work-shop-1.html" crc="390088705" seo="true" mt="1444696492651" redirect="true"/>
+  <file name="index.html" crc="141298855" seo="true" mt="1446175041387" redirect="true"/>
+  <file name="fashion-bras.html" crc="4164187983" seo="true" mt="1446175041387" redirect="true"/>
+  <file name="sports-bras.html" crc="3788197929" seo="true" mt="1446175041387" redirect="true"/>
+  <file name="fantasy-bras.html" crc="45466341" seo="true" mt="1446175041387" redirect="true"/>
+  <file name="how-it-works.html" crc="363989417" seo="true" mt="1446175041387" redirect="true"/>
+  <file name="issues.html" crc="499178129" seo="true" mt="1446175041387" redirect="true"/>
+  <file name="vote.html" crc="4035999553" seo="true" mt="1446175041387" redirect="true"/>
+  <file name="workshop.html" crc="3846527702" seo="true" mt="1446175041387" redirect="true"/>
 </manifest>
